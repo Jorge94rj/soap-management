@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetItemDetailsResponse xmlns="http://soap-management/items"
+xsi:schemaLocation="http://soap-management/items item-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemDetails>
+        <id>1</id>
+        <name>test</name>
+        <description>creation of soap</description>
+    </ItemDetails>
+</GetItemDetailsResponse>

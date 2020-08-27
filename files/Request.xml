@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetItemDetailsRequest xmlns="http://soap-management/items" 
+xsi:schemaLocation="http://soap-management/items item-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>1</id>
+</GetItemDetailsRequest>
